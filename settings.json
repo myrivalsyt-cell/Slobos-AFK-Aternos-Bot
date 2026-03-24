@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Nothingsushere!",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Whereisallthefood?",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "FrostSMP-Ztgt.aternos.me",
+    "port": 63165,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
